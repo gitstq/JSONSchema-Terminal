@@ -1,0 +1,18 @@
+{
+  "id": 1,
+  "username": "john_doe",
+  "email": "john.doe@example.com",
+  "profile": {
+    "firstName": "John",
+    "lastName": "Doe",
+    "age": 30,
+    "avatar": "https://example.com/avatars/john.jpg"
+  },
+  "roles": ["user", "moderator"],
+  "settings": {
+    "notifications": true,
+    "theme": "dark"
+  },
+  "createdAt": "2026-01-15T10:30:00Z",
+  "isActive": true
+}

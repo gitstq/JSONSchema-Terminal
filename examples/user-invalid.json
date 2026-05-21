@@ -1,0 +1,12 @@
+{
+  "id": -1,
+  "username": "ab",
+  "email": "invalid-email",
+  "profile": {
+    "firstName": "John",
+    "lastName": "Doe",
+    "age": 200
+  },
+  "roles": ["user", "user"],
+  "createdAt": "not-a-date"
+}
